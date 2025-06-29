@@ -1,1 +1,1 @@
-# Newton-s-Education-Hub
+# Newton's-Education-Hub

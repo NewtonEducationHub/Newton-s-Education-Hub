@@ -109,8 +109,8 @@
     <h2>Get in Touch</h2>
     <div class="card">
       <p>Email: contact@newtonseducationhub.com</p>
-      <p>Phone: +91-9876543210</p>
-      <p>Address: 123, Knowledge Park, Education City, India</p>
+      <p>Phone: +91-9760498761</p>
+      <p>Address: Mawana, Uttar Pradesh India</p>
     </div>
   </div>
   <footer>
